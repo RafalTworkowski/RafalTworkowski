@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RafalTworkowski
+- 👀 I’m interested in investing and trading
+- 🌱 I’m currently learning valuation and trading methods as well as python, C# programming languages
+- 💞️ I’m looking to collaborate on investing strategies and trading automation
+- 📫 How to reach me on facebook: https://www.facebook.com/profile.php?id=100011511218349
